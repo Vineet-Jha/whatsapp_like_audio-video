@@ -26,7 +26,6 @@ Clone the repository:
 
 ```sh
 git clone https://github.com/Vineet-Jha/whatsapp_like_audio-video
-cd to-do
 ```
 
 ### Running the Project
