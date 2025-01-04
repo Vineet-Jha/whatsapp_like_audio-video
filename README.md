@@ -16,7 +16,6 @@ To get started with this project, follow these steps:
 Clone the repository:
 ```sh
 git clone https://github.com/Vineet-Jha/whatsapp_like_audio-video
-cd to-do
 ```
 ### Running the Project
 Before running the project, make sure to clean and get the required dependencies:
